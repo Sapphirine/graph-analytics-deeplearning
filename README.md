@@ -1,7 +1,7 @@
 # graph-analytics-deeplearning
 **EECS 6895 Graph analytics using Deep Learning (Group C8)**
 
-Members: Sarang Karpate (sjk2218), Gabriel Ryan (gr2547)
+**Members**: Sarang Karpate (sjk2218), Gabriel Ryan (gr2547)
 
 Repository contains the following Notebooks:
 
