@@ -5,6 +5,7 @@ Members: Sarang Karpate (sjk2218), Gabriel Ryan (gr2547)
 
 Repository contains the following Notebooks:
 
+1) **Experiment 1 (Milestone 1)**: Notebook to generate sample graphs and optimize a minimization function
 
 2) **Milestone 2**: Notebook implementing a computational graph query (CGQ) for weight allocation to nodes based on risks
 
